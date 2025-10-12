@@ -14,13 +14,13 @@ Synchronization primitives enforce coordination between the threads. Here are th
 - Used when you need **exclusive access** to a resource.
     
 > [!example]
-    >
-    >```cpp
-    >// Only one thread can enter here shared++; 
-    >std::mutex m; m.lock();
-    >// Others can now proceed
-    >m.unlock();   
-    > ```
+>
+>```cpp
+>// Only one thread can enter here shared++; 
+>std::mutex m; m.lock();
+>// Others can now proceed
+>m.unlock();   
+> ```
 
 Let's say there's a hall full of workers, and many workers need to coordinate together to get work done, but they keep arguing and have a big heated discussion. A chicken comes along and enforces a rule:
 
