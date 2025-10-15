@@ -1,11 +1,3 @@
----
-title: High Level Analysis
-draft: false
-tags:
-  -
----
-
-
 High Level Design
 
 It identifies _what needs to be done_ and _how tasks relate to one another_, without getting into the exact implementation yet.

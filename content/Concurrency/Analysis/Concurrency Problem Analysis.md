@@ -1,10 +1,3 @@
----
-title: Concurrency Problem Analysis
-draft: false
-tags:
-  -
----
-
 **Multi-threading** is the ability for software to make use of threads to achieve multiple tasks concurrently. It centers on the use of threads - a lightweight piece of running code. 
 
 In order to perform multi-threading, take into consideration that design is king. Multi-threading is more harder to debug and assess than single-threaded programming as **emergent** properties. Bugs and problems are not obvious from threads separately, but they do appear on how those threads interact.

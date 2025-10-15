@@ -1,10 +1,3 @@
----
-title: Concurrency Bugs
-draft: false
-tags:
-  -
----
-
 # Mutual Exclusion Violations
 
 ## Race Condition

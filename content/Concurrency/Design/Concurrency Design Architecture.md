@@ -1,9 +1,3 @@
----
-title: Concurrency Design Architecture
-draft: false
-tags:
-  -
----
 
 # Concurrency Model Patterns
 

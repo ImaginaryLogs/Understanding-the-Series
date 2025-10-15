@@ -1,10 +1,3 @@
----
-title: Low Level Analysis
-draft: false
-tags:
-  -
----
-
 Low level analysis of multi-threading code often deals with how is actually executed. 
 
 # Synchronization Strategies
