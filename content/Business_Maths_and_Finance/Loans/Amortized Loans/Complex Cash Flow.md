@@ -1,3 +1,6 @@
+---
+draft: false
+---
 Business often involve a mixed pattern for cash flow, instead of text book examples. To breakdown simply, use a [[Timeline Model]] to summarize the timing and amount of each payment.
 
 

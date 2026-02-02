@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 Here, we ask what is the value today of cash flow to be **received** in the future.
 
 $$

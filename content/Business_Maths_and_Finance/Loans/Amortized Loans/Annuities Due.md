@@ -1,3 +1,6 @@
+---
+draft: false
+---
 It is an [[Annuity]] in which all the cash flows occur at the beginning of the period. 
 
 An example would be rent paid at every month.

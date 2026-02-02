@@ -1,3 +1,7 @@
+---
+draft: false
+---
+
 Here are many ways simple interests can be **characterized**. 
 
 | Umbrella Term    | Sub-terms                         | Definition                                 |

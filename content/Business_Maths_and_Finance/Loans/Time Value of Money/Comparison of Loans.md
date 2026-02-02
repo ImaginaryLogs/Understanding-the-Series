@@ -1,3 +1,6 @@
+---
+draft: false
+---
 In finance, you may want to compare how two different [[Loans and Interests|loans]] compare in earnings.
 
 The interest rate paid or gained in one year without compounding is called the **Annual Percentage Rate** (APR).^annual-percentage-rate-def

@@ -2,6 +2,7 @@
 tags:
   - Business_Mathematics
   - Finance_and_Business
+draft: false
 aliases:
   - annuity
   - annuities

@@ -1,3 +1,6 @@
+---
+draft: false
+---
 These are loans paid of in equal payments, and each loan payment is considered an [[Annuity]].^amortized-loans-def
 
 Examples include *home mortgage loans* and *auto loans*.

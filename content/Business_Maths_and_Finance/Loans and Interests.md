@@ -2,6 +2,7 @@
 tags:
   - "#Business_Mathematics"
   - FMDBUSN
+draft: false
 aliases:
   - Loan
   - Loans

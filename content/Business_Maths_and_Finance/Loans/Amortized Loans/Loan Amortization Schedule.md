@@ -1,3 +1,6 @@
+---
+draft: false
+---
 This is a schedule of an [[Amortized Loans|amortized loan]], 
 
 | Year | Principal at $nth$ year | [[Annuity]] Payment | Interest Portion | Principal Portion | Outstanding Balance Remaining |

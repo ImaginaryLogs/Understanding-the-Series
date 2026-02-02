@@ -1,6 +1,7 @@
 ---
 tags:
   - Finance_and_Business
+draft: false
 aliases:
   - discount
   - discounts

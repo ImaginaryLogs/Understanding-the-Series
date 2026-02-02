@@ -1,3 +1,6 @@
+---
+draft: false
+---
 1. [[Loans and Interests]]
 	1. [[Simple Interests]]
 	2. [[Types of Simple Interests]]
