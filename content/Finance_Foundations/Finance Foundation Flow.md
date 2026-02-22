@@ -15,7 +15,7 @@ Assuming that you understand what are [[Loans and Interests]] are, then you are 
 	2. [[Risk-Return Metrics]] - what are metrics to evaluate assets?
 		1. [[Arithmetic Average]]
 		2. [[Geometric Average]]
-	3. [[Portfolio Performance Metrics]] - what are metrics to evaluate a portfolio
+	3. [[Portfolio Performance Metrics]] - what are metrics to evaluate a portfolio?
 		1. [[Expected Return]]
 		2. [[Standard Deviation]]
 		3. [[Market Portfolio]]
