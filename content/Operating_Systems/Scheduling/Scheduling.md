@@ -55,4 +55,3 @@ $$
 | RR            | Yes         | No              | Medium | Time-sharing           | Wrong quantum selection            |
 | Priority (NP) | No          | Yes             | Varies | Real-time systems      | Low priority processes             |
 | SRTF          | Yes         | Yes             | Lowest | Known short jobs       | Long processes starve              |
-
